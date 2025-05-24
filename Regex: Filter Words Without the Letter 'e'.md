@@ -37,8 +37,7 @@ print("Words that do not contain the letter 'e':", l1)
 
 
 ## Output
-```
-Words that do not contain the letter 'e': ['goal', 'sit']
-```
+![image](https://github.com/user-attachments/assets/0051e369-3287-46a0-b946-2ce699ebf630)
+
 ## Result
 This program successfully filters out and returns all elements that do not contain the letter 'e' using regular expressions. 
