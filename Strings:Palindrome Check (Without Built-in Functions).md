@@ -27,8 +27,7 @@ else:
     print(f'"{word}" is not a palindrome.')
 ```
 ## Output
-```
-"google" is not a palindrome.
-```
+![image](https://github.com/user-attachments/assets/3ee5536b-aa27-4848-9214-07f7c12f537f)
+
 ## Result
 The program correctly checks and reports whether "google" is a palindrome by reversing the string manually
