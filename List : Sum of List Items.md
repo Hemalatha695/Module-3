@@ -22,8 +22,7 @@ print("The sum of all elements in the list is:", total)
 ```
 
 ## Output
-```
-The sum of all elements in the list is: 150
-```
+![image](https://github.com/user-attachments/assets/6cba3854-8307-4cf8-895c-830167f600ea)
+
 ## Result
 This program correctly calculates and prints the sum of all elements in the list using Python's built-in functionality
