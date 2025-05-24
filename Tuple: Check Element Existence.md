@@ -24,10 +24,7 @@ print("Does 'n
 ```
 
 ## Output
-```
-Does 'n' exist in the tuple? True
-Does 8 exist in the tuple? True
-```
+![image](https://github.com/user-attachments/assets/4b8a50e1-e227-4505-89bf-f4a9299ce016)
 
 ## Result
 This program correctly uses the in operator to check for the presence of both a string and a number in a tuple. 
