@@ -42,9 +42,8 @@ print("String after removing the character:", result)
 ```
 
 ## Output
-```
-String after removing the character: pyhon
-```
+![image](https://github.com/user-attachments/assets/4450c47e-bd3b-4449-9b62-89a10eee44d9)
+
 
 ## Result
 This program successfully removes the character at the given index and returns the updated string
